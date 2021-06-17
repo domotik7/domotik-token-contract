@@ -1,4 +1,4 @@
-# domotik-token-contract
+# Domotik-token-contract
 https://domotik.biz/ free to read the code. More details coming soon.
 
 Deployed Contracts / Hash
